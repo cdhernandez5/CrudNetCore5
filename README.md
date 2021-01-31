@@ -2,8 +2,8 @@
 CRUD con .NET Core 5.0
 
 ##### Instalar paquete nuget: 
-**Microsoft.EntityFrameworkCore.SqlServer**  --> Permite usar EntityFramework
-**Microsoft.EntityFrameworkCore.Tools**  --> Herramienta de diseño y configuración para EntityFramework
+- **Microsoft.EntityFrameworkCore.SqlServer**  --> Permite usar EntityFramework
+- **Microsoft.EntityFrameworkCore.Tools**  --> Herramienta de diseño y configuración para EntityFramework
 
 # Crear migración.
 
