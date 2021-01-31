@@ -1,7 +1,7 @@
 # CrudNetCore5
 CRUD con .NET Core 5.0
 
-#####Instalar paquete nuget: 
+##### Instalar paquete nuget: 
 **Microsoft.EntityFrameworkCore.SqlServer**  --> Permite usar EntityFramework
 **Microsoft.EntityFrameworkCore.Tools**  --> Herramienta de diseño y configuración para EntityFramework
 
@@ -24,6 +24,5 @@ add-migration MigracionInicial
 ```
 update-database
 ```
-Crea en la base de datos las tablas.
 
 Tutorial seguido de [aquí](https://www.youtube.com/watch?v=3mu2K5vXcxc).
